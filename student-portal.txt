@@ -1,2 +1,4 @@
 Student Portal
 Welcome to the University Online Student Portal
+Contact Feature
+Students can contact the administration.
